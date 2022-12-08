@@ -16,7 +16,7 @@ weight = input("enter your weight in kg: ")
 
 #float() converts strings into floating point numbers
 
-bmi = float(weight) / pow(float(height), 2)
+bmi = float(weight) / float(height) ** 2
 
 
 
