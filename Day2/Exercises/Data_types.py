@@ -20,13 +20,13 @@ two_digit_number = input("Type a two digit number: ")
 
 
 
-#ex: 15
+#ex: 34
 
 
 
-# 1: index 0
+# 3: index 0
 
-# 5: index 1
+# 4: index 1
 
 
 
@@ -34,4 +34,4 @@ two_digit_number = input("Type a two digit number: ")
 
 
 
-print(int(two_digit_number[0]) + int(two_digit_number[1])) # returns an integer
+print(int(two_digit_number[0]) + int(two_digit_number[1])) # returns an integer 7
